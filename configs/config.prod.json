@@ -7,7 +7,7 @@
     "vapi": "https://vapi.sunseries.travel/v1",
     "soltech": "http://xml.sunseries.travel/soltech"
   },
-  "baseUrl": "https://app.sunseries.travel/#!/",
+  "baseUrl": "https://mak-pun.github.io/sst-b2c-showcase/#!/",
   "cloudinary": {
     "apiUrl": "https://api.cloudinary.com/v1_1/",
     "apiKey": "994549737776783",
