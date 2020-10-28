@@ -18,7 +18,7 @@
   },
   "defaultLanguageCode": "en_GB",
   "googleMapApi": {
-    "transport": "http",
+    "transport": "https",
     "china": false,
     "key": "AIzaSyBIxDnQ0E6i6kT0RTkvrpbVpKzIZNDEVp4"
   },
