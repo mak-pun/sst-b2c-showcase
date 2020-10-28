@@ -1,0 +1,46 @@
+{
+  "logging": true,
+  "webSocketUrl": "https://rq-dev.sunseries.travel/websocket",
+  "apiUrl": "https://rq-dev.sunseries.travel/sunseries/v1/",
+  "adapterUrl": "https://rq-dev.sunseries.travel/adapter/",
+  "oldAdapterUrls": {
+    "vapi": "https://vapi-dev.sunseries.travel/v1",
+    "soltech": "http://xml-dev.sunseries.travel/soltech"
+  },
+  "baseUrl": "https://app-v4-dev.sunseries.travel/#!/",
+  "cloudinary": {
+    "apiUrl": "https://api.cloudinary.com/v1_1/",
+    "apiKey": "994549737776783",
+    "apiSecret": "_kn2pOPsxlvcLiGdC0TtoW-B2WE",
+    "cloudName": "sunseries",
+    "uploadPreset": "sunseries-preset",
+    "imageUrl": "https://res.cloudinary.com/sunseries/image/upload/"
+  },
+  "defaultLanguageCode": "en_GB",
+  "googleMapApi": {
+    "transport": "https",
+    "china": false,
+    "key": "AIzaSyBIxDnQ0E6i6kT0RTkvrpbVpKzIZNDEVp4"
+  },
+  "theme": {
+    "name": "sunseries",
+    "prettyName": "Sun Series Travel",
+    "logo": "sunseries-logo-mark"
+  },
+  "roles": [
+    "SUPER_ADMIN",
+    "ADMIN",
+    "ACCOUNT_RECEIVABLE_CLERK",
+    "ACCOUNT_PAYABLE_CLERK",
+    "CONTRACT",
+    "RESERVATION",
+    "BUSINESS_DEVELOPMENT",
+    "AGENT_ADMIN",
+    "AGENT_FINANCE_ADMIN",
+    "AGENT_FINANCE_STAFF",
+    "AGENT_ACCOUNT_ADMIN",
+    "AGENT_ACCOUNT_STAFF",
+    "AGENT_BOOKING_ADMIN",
+    "AGENT_BOOKING_STAFF"
+  ]
+}

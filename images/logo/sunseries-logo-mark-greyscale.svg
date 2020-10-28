@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>m-logo-flat copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M93.5753425,188 C145.255577,188 187.150685,145.914766 187.150685,94 C187.150685,87.9638007 184.438356,72.2028986 179.013699,59.942029 C173.589041,47.6811594 198,21.7971014 198,21.7971014 L150.534247,21.7971014 L165.452055,0 L93.5753425,0 C41.8951079,0 0,42.0852335 0,94 C0,145.914766 41.8951079,188 93.5753425,188 Z" id="path-1"></path>
+        <path d="M0,51.7557401 C0,51.7557401 28.5655233,68.099658 12.2423671,118.493405 C12.2423671,118.493405 35.3668384,103.51148 61.2118356,113.045432 C87.0568329,122.579384 107.460778,122.579384 107.460778,122.579384 C107.460778,122.579384 119.182729,91.5733777 102.019726,57.2037128 C99.2992,51.7557401 121.063408,20.4298974 125.144197,20.4298974 L74.8144658,20.4298974 L87.0568329,0 L32.6463123,0 L0,51.7557401 Z" id="path-3"></path>
+        <path d="M0.979463014,35.4118222 C0.979463014,35.4118222 21.3834082,47.6697606 15.9423562,92.6155349 C15.9423562,92.6155349 40.4270904,102.149487 62.1912986,102.149487 C62.1912986,102.149487 73.6014634,64.1257804 55.3899836,36.7738153 C52.6694575,32.6878359 70.3528767,2.72398632 77.1541918,0 C77.1541918,0 25.4641973,0 25.4641973,0 L0.979463014,35.4118222 Z" id="path-5"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="m-logo-flat-copy">
+            <g id="logomark" transform="translate(1.000000, 6.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="1st-(segment)"></g>
+                <path d="M93.5753425,188 C145.255577,188 176.588379,146.212891 183.125488,120.963867 L78.5342466,51.7971014 L111.452055,0 L93.5753425,0 C41.8951079,0 0,42.0852335 0,94 C0,145.914766 41.8951079,188 93.5753425,188 Z" id="1st-(segment)" fill="#D7D7D7" mask="url(#mask-2)"></path>
+                <g id="inner-shapes" mask="url(#mask-2)">
+                    <g transform="translate(78.000000, 0.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="2nd-(segment)" stroke="none" fill="#E9E9E9" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <g id="3rd-(segment)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                            <g transform="translate(46.629742, 21.791891)">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <use id="segment" stroke="none" fill="#F6F6F6" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
