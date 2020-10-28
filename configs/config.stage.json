@@ -42,5 +42,8 @@
     "AGENT_ACCOUNT_STAFF",
     "AGENT_BOOKING_ADMIN",
     "AGENT_BOOKING_STAFF"
-  ]
+  ],
+  "paymentDestinations":{
+    "omise": "PD000027A"
+  }
 }
