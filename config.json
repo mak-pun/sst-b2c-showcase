@@ -1,7 +1,7 @@
 {
   "logging": true,
   "webSocketUrl": "https://rq-int.sunseries.travel/socket/websocket",
-  "apiUrl": "sunseries/v1/",
+  "apiUrl": "https://rq-int.sunseries.travel/sunseries/v1/",
   "adapterUrl": "https://rq-int.sunseries.travel/adapter/",
   "oldAdapterUrls": {
     "vapi": "https://vapi-int.sunseries.travel/v1",
