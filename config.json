@@ -1,13 +1,13 @@
 {
   "logging": true,
-  "webSocketUrl": "https://rq-int.sunseries.travel/socket/websocket",
-  "apiUrl": "https://rq-int.sunseries.travel/sunseries/v1/",
-  "adapterUrl": "https://rq-int.sunseries.travel/adapter/",
+  "webSocketUrl": "https://rq-stage.sunseries.travel/socket/websocket",
+  "apiUrl": "https://rq-stage.sunseries.travel/sunseries/v1/",
+  "adapterUrl": "https://rq-stage.sunseries.travel/adapter/",
   "oldAdapterUrls": {
-    "vapi": "https://vapi-int.sunseries.travel/v1",
-    "soltech": "http://xml-int.sunseries.travel/soltech"
+    "vapi": "https://vapi-stage.sunseries.travel/v1",
+    "soltech": "http://xml-stage.sunseries.travel/soltech"
   },
-  "baseUrl": "https://mak-pun.github.io/sst-b2c-showcase/#!/",
+  "baseUrl": "https://b2c.sunseries.travel/#!/",
   "cloudinary": {
     "apiUrl": "https://api.cloudinary.com/v1_1/",
     "apiKey": "994549737776783",
